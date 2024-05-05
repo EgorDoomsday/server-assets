@@ -2,31 +2,27 @@
     "menu": {
         "slide": [
             {
-                "title": "Farm1",
-                "desk": "Desk1",
-                "nick": "Nick1",
-                "image": "none",
+                "title": "Ферма железа",
+                "desk": "Небольшая ферма железа для общего пользования",
+                "nick": "Author1",
                 "coords": "0 100 0, мир"
             },
             {
                 "title": "Farm2",
                 "desk": "Desk2",
                 "nick": "Nick2",
-                "image": "none",
                 "coords": "0 200 0, ад"
             },
             {
                 "title": "Farm3",
                 "desk": "Desk3",
                 "nick": "Nick3",
-                "image": "none",
                 "coords": "0 300 0, энд"
             },
             {
                 "title": "Farm4",
                 "desk": "Desk4",
                 "nick": "Nick4",
-                "image": "none",
                 "coords": "0 400 0, мир"
             }
         ]
