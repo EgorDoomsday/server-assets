@@ -1,16 +1,35 @@
 {
-  "slide_0":
-  [
-    "nick":"Alexandria",
-    "title":"Gold farm",
-    "description":"Free to use",
-    "coords":"0 100 0, nether"
-  ],
-  "slide_1":
-  [
-    "nick":"Superman",
-    "title":"Book shop",
-    "description":"Low prices",
-    "coords":"spawn, overworld"
-  ]
+    "menu": {
+        "slide": [
+            {
+                "title": "Farm1",
+                "desk": "Desk1",
+                "nick": "Nick1",
+                "image": "none",
+                "coords": "0 100 0, overworld"
+            },
+            {
+                "title": "Farm2",
+                "desk": "Desk2",
+                "nick": "Nick2",
+                "image": "none",
+                "coords": "0 200 0, overworld"
+            },
+            {
+                "title": "Farm3",
+                "desk": "Desk3",
+                "nick": "Nick3",
+                "image": "none",
+                "coords": "0 300 0, overworld"
+            },
+            {
+                "title": "Farm4",
+                "desk": "Desk4",
+                "nick": "Nick4",
+                "image": "none",
+                "coords": "0 400 0, overworld"
+            },
+        ]
+    },
+    "slide_time": 10
 }
